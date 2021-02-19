@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <title> Page title goes here </title>
 
 <header> This is a header </header>
@@ -6,7 +9,7 @@
 
  <body style="background-color:aliceblue;">
  
-<h1> Add our title here </h1>
+<h1> Add your title here </h1>
 
 <p> Put your name here </p>
 
@@ -14,7 +17,7 @@
 
 <span style="text-decoration: underline;">
 
-<a href=" add link here "> </a> this is what people will click on to got to link
+<a href=" add link here "> </a> this is what people will click on to go to link
 
 </span> This text will finish the paragraph. "
 <p>
@@ -49,5 +52,22 @@ comments <br>
 
 <!-- this is the end <-->
 
+<!-- Something to think about:
+Use colour to your advantage
+Red-attracts the eye BUT using a bold red for a backround colour can look tacky
+Green-restful 
+Blue-the most used office colour
+Yellow-happy colour but again a bold yellow for bakround often doesn't look good
+Black-an authority colour but make sure you dont have your text as black aswell
+Grey-consevitive 
+White-purity but often looks a bit boring
+afab people often prefer blue purble and green
+and amab people often prefer blue green and black
 
+also make sure the text you chose is legible curcive is often hard to read
+and make sure your text and backround colours don't clash 
+<-->
+
+</html>
+</body>
 </html>
